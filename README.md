@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on Python ,AI-ML Based projects
 
-🌱 I’m currently learning Deep learning and Generative AI
+🌱 I’m currently learning python- pluse sequences,Deep learning and Generative AI
 
 👯 I’m looking to collaborate on Generative AI, Machine Learning, Artificial Intelligence and Researches.
 
