@@ -1,6 +1,6 @@
 
-                                **Hii 👋, I'm Aditi Lichade**
-
+**                            **Hii 👋, I'm Aditi Lichade**
+**
 **Research Scientist at Society for Applied Microwave Electronics Engineering & Research.**
 
 🔭 I’m currently working on Python ,AI-ML Based projects
