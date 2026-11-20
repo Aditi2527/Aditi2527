@@ -2,22 +2,17 @@
 **     **                     ** **Hii 👋, I'm Aditi Lichade** **
 **     **
 
+**Research Scientist at SAMEER, IIT Bombay**
+B.Tech in Computer Science (2023) | Python • SQL • AI/ML | Transitioning into Data Engineering
 
-**Research Scientist at Society for Applied Microwave Electronics Engineering & Research.**
+I work on Python and AI/ML-based research projects, and I'm now building skills in data pipelines and analytics engineering.
 
-🔭 I’m currently working on Python ,AI-ML Based projects
-
-🌱 I’m currently learning python- pluse sequences,Deep learning and Generative AI
-
-👯 I’m looking to collaborate on Generative AI, Machine Learning, Artificial Intelligence and Researches.
-
-👨‍💻 All of my projects are available at [Projects]]
-
-💬 Ask me about Python,AI-ML, Generative AI 
-
-📫 How to reach me aditilichade27@gmail.com
-
-⚡ Fun fact I don't want to study but often gain Knowledge.
+- 🔭 **Currently working on:** Python and AI/ML-based research projects
+- 🌱 **Currently learning:** SQL, ETL, Apache Airflow, PySpark, Deep Learning, Generative AI
+- 👯 **Open to collaborating on:** Data Engineering, Machine Learning, Generative AI and Research
+- 🌐 **Portfolio:** [aditi-portfolio-sable.vercel.app](https://aditi-portfolio-sable.vercel.app/)
+- 📫 **Reach me at:** aditilichade27@gmail.com
+- ⚡ **Fun fact:** I enjoy breaking down complex problems and exploring new technologies.
 
  🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
