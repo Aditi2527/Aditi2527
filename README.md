@@ -39,7 +39,7 @@ I work on Python and AI/ML-based research projects, and I'm now building skills 
 ---
 
  ✨ About Me  
-💬 Ask me about **Python, AI/ML, Data Science**  
+💬 Ask me about **Python, AI/ML and Data Engineering **  
 📫 Reach me at: **aditilichade27@gmail.com**  
 ⚡ Fun fact: *I love solving AI challenges and exploring new technologies.*
 
